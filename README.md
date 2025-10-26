@@ -1,16 +1,17 @@
 CONTROLES:
+
 	Movimiento
 		->W: adelante
 		->S: atrás
 		->A: izquierda
 		->D: derecha
 
-	Comandos extra:
+	Comandos extra
 		-> ESC: salir del juego
 		-> RIGHT CLICK: hacer que el mouse se mueva exclusivamente en la ventana
 				presionar de nuevo para moverlo libremente
 
-	Cámara:
+	Cámara
 		-> 1: vista desde el aire
 		-> 2: primera persona (de la pelota)
 		-> 3: tercera persona
